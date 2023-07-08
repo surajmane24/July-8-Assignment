@@ -1,5 +1,5 @@
 package com.aurionpro.test;
-
+//For results switch to result branch
 public class PrimeNumber {
 
 	public static void main(String[] args) {
@@ -24,5 +24,6 @@ public class PrimeNumber {
 			}
 		}
 	}
+
 
 }
